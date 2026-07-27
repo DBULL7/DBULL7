@@ -1,0 +1,88 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Devon Bull — software engineer and product builder</title>
+  <desc id="desc">A dark, futuristic banner with Devon Bull's name, a geometric DB monogram, and the words software, product, and systems.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="34" y1="23" x2="1194" y2="455" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071016" />
+      <stop offset="0.52" stop-color="#0B1720" />
+      <stop offset="1" stop-color="#101224" />
+    </linearGradient>
+
+    <linearGradient id="accent" x1="390" y1="66" x2="1004" y2="368" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7FE7D8" />
+      <stop offset="0.48" stop-color="#5BA4F6" />
+      <stop offset="1" stop-color="#A78BFA" />
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1007 204) rotate(180) scale(321 277)">
+      <stop stop-color="#5BA4F6" stop-opacity="0.22" />
+      <stop offset="0.48" stop-color="#A78BFA" stop-opacity="0.08" />
+      <stop offset="1" stop-color="#071016" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#C7D7E3" stroke-opacity="0.055" stroke-width="1" />
+    </pattern>
+
+    <filter id="soft-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <clipPath id="frame">
+      <rect width="1280" height="420" rx="24" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="420" fill="url(#background)" />
+    <rect width="1280" height="420" fill="url(#grid)" />
+    <rect x="700" y="-50" width="610" height="520" fill="url(#glow)" />
+
+    <path d="M-62 373C193 310 286 436 535 360C759 291 850 91 1102 83C1196 80 1267 101 1341 139" stroke="url(#accent)" stroke-opacity="0.16" stroke-width="1.5" />
+    <path d="M-43 396C196 330 296 456 548 384C793 314 855 121 1112 108C1201 103 1274 122 1338 155" stroke="#7FE7D8" stroke-opacity="0.08" />
+
+    <g opacity="0.72">
+      <circle cx="1020" cy="210" r="134" stroke="#C7D7E3" stroke-opacity="0.12" />
+      <circle cx="1020" cy="210" r="101" stroke="#7FE7D8" stroke-opacity="0.28" stroke-dasharray="2 9" />
+      <circle cx="1020" cy="210" r="66" stroke="#A78BFA" stroke-opacity="0.26" />
+      <path d="M886 210H1154M1020 76V344" stroke="#C7D7E3" stroke-opacity="0.08" />
+      <circle cx="1110" cy="165" r="4" fill="#7FE7D8" filter="url(#soft-glow)" />
+      <circle cx="962" cy="293" r="3" fill="#A78BFA" filter="url(#soft-glow)" />
+      <circle cx="922" cy="126" r="2.5" fill="#5BA4F6" />
+    </g>
+
+    <g transform="translate(951 141)">
+      <rect width="138" height="138" rx="32" fill="#0B151E" fill-opacity="0.86" stroke="url(#accent)" stroke-width="1.5" />
+      <path d="M39 36H67C83 36 92 43 92 56C92 64 88 70 81 73C91 76 97 84 97 94C97 111 85 120 66 120H39V36ZM57 51V67H66C72 67 75 64 75 59C75 53 71 51 65 51H57ZM57 82V105H67C75 105 79 101 79 94C79 86 75 82 66 82H57Z" fill="url(#accent)" />
+      <path d="M30 27L108 111" stroke="#C7D7E3" stroke-opacity="0.12" />
+    </g>
+
+    <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+      <text x="72" y="74" fill="#7FE7D8" font-size="13" font-weight="700" letter-spacing="4">SOFTWARE / PRODUCT / SYSTEMS</text>
+
+      <text x="68" y="184" fill="#F4F8FB" font-size="82" font-weight="760" letter-spacing="-3">DEVON</text>
+      <text x="68" y="267" fill="url(#accent)" font-size="82" font-weight="760" letter-spacing="-3">BULL</text>
+
+      <text x="74" y="315" fill="#9DB0BF" font-size="19" font-weight="450" letter-spacing="0.35">Building useful software with clarity, craft, and momentum.</text>
+
+      <text x="72" y="371" fill="#6E8392" font-size="11" font-weight="650" letter-spacing="2.4">JAVASCRIPT</text>
+      <circle cx="184" cy="367" r="2.5" fill="#7FE7D8" />
+      <text x="201" y="371" fill="#6E8392" font-size="11" font-weight="650" letter-spacing="2.4">GO</text>
+      <circle cx="243" cy="367" r="2.5" fill="#5BA4F6" />
+      <text x="260" y="371" fill="#6E8392" font-size="11" font-weight="650" letter-spacing="2.4">DEVELOPER EXPERIENCE</text>
+
+      <text x="1137" y="52" fill="#647987" font-size="10" font-weight="650" letter-spacing="2.2">DBULL7 / 001</text>
+      <text x="929" y="385" fill="#647987" font-size="10" font-weight="650" letter-spacing="2.2">RALEIGH, NORTH CAROLINA</text>
+    </g>
+
+    <rect x="24.5" y="24.5" width="1231" height="371" rx="17.5" stroke="#C7D7E3" stroke-opacity="0.09" />
+    <path d="M24 81V42C24 32.0589 32.0589 24 42 24H80" stroke="#7FE7D8" stroke-opacity="0.56" stroke-width="1.5" />
+    <path d="M1256 339V378C1256 387.941 1247.94 396 1238 396H1200" stroke="#A78BFA" stroke-opacity="0.56" stroke-width="1.5" />
+    <rect x="24" y="393" width="1232" height="3" fill="url(#accent)" fill-opacity="0.55" />
+  </g>
+</svg>
