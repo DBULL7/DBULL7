@@ -18,43 +18,63 @@
 
 ## Hello — I'm Devon.
 
-I'm a former entrepreneur turned software developer in Raleigh, North Carolina. I build thoughtful products and developer tools with a bias toward clear systems, fast feedback, and the small details that make software feel great.
+I'm a product-minded software engineer and former entrepreneur in Raleigh, North Carolina. I build and operate full-stack products across JavaScript, TypeScript, Go, cloud platforms, and developer tooling.
 
-I care about work that is useful on day one, maintainable on day one thousand, and enjoyable the whole way there.
+I work comfortably from frontend experiences and APIs through infrastructure and observability—shipping maintainable systems and helping teams move with confidence. I also enjoy crossing boundaries into Swift, iOS, and hardware-driven projects.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 / Product engineering</h3>
-      <p>Turning ambiguous ideas into focused, shippable experiences.</p>
+      <h3>01 / End-to-end delivery</h3>
+      <p>Taking products from ambiguous ideas through frontend, API, and production systems.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>02 / Developer experience</h3>
-      <p>Building tools and workflows that help teams move with confidence.</p>
+      <h3>02 / Cloud & reliability</h3>
+      <p>Operating observable services across cloud and container orchestration platforms.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 / Automation</h3>
-      <p>Letting software handle the repetitive work so people can solve better problems.</p>
+      <h3>03 / Developer experience</h3>
+      <p>Building automation and tooling that make the right path the easy path.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>04 / Constant learning</h3>
-      <p>Exploring new platforms, patterns, and ideas through hands-on experiments.</p>
+      <h3>04 / Platform breadth</h3>
+      <p>Additional hands-on work across Swift, native iOS, and connected hardware.</p>
     </td>
   </tr>
 </table>
 
-## Tools I reach for
+## Engineering toolkit
+
+### Languages & application development
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-101A22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-101A22?style=flat-square&logo=typescript&logoColor=5BA4F6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Go-101A22?style=flat-square&logo=go&logoColor=7FE7D8" alt="Go" />
+  <img src="https://img.shields.io/badge/Vue.js-101A22?style=flat-square&logo=vuedotjs&logoColor=42B883" alt="Vue.js" />
   <img src="https://img.shields.io/badge/React-101A22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-101A22?style=flat-square&logo=nodedotjs&logoColor=8CC84B" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-101A22?style=flat-square&logo=express&logoColor=F4F8FB" alt="Express.js" />
+</div>
+
+### Data, cloud & operations
+
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-101A22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS-101A22?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="Amazon Web Services" />
+  <img src="https://img.shields.io/badge/Google_Cloud-101A22?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Kubernetes-101A22?style=flat-square&logo=kubernetes&logoColor=7AA7FF" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Datadog-101A22?style=flat-square&logo=datadog&logoColor=A78BFA" alt="Datadog" />
+</div>
+
+### Mobile & connected experiences
+
+<div>
+  <img src="https://img.shields.io/badge/Swift-101A22?style=flat-square&logo=swift&logoColor=F9735B" alt="Swift" />
+  <img src="https://img.shields.io/badge/iOS-101A22?style=flat-square&logo=apple&logoColor=F4F8FB" alt="iOS" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-101A22?style=flat-square&logo=raspberrypi&logoColor=F05A7E" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Git-101A22?style=flat-square&logo=git&logoColor=F9735B" alt="Git" />
 </div>
 
 ## Selected work
